@@ -1,22 +1,33 @@
 body {
+    background-color: rgba(0, 0, 0, 0.75);
     color: blue;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 60px;
+    font-size: 40px;
     margin: 0;
     padding: 0;
+}
+#imagen {
+    background-color: white;
+    padding: 2px;
+    border-radius: 12px;
+    width: 50px;
 }
 
 #header {
     background-color: #33C;
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75) ;
-    color: pink;
+    color: black;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
 
-p {
+#post p {
+    color: red;
+}
+
+#post {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -42,4 +53,7 @@ p {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:rgba(0, 0, 0, 0.75);
+}
+#creditos {
+    color: yellowgreen;
 }
