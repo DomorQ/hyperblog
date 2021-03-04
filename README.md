@@ -5,6 +5,7 @@ Este curso es una pequeña muestra de lo aprendido en el curso de Giy y Github c
 
 Creado por el increible desarrollador Domor_Q
 Incluye ejemplos en Windows
+Disponible para todas las edades
 
 NUNCA PARES DE APRENDER!!!
 
